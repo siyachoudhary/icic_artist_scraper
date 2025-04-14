@@ -1,4 +1,4 @@
-# icic_artist_scraper
+# Pakmag artist web scraper
 Use this to set up selenium for ur device:
 https://medium.com/%40prakrutipathak/web-scraping-a-step-by-step-guide-using-selenium-and-muicircular-41d50d469fc1
 
